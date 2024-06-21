@@ -1,1 +1,1 @@
-# DearDiary
+"Dear Diary" adalah sebuah aplikasi mobile yang dirancang untuk membantu pengguna menyimpan catatan harian, pemikiran, dan perasaan mereka secara digital. Dalam aplikasi ini, pengguna dapat membuat entri baru setiap hari dan menulis tentang pengalaman mereka, ide-ide, atau peristiwa yang berarti bagi mereka. Aplikasi ini menyediakan antarmuka yang sederhana dan intuitif yang memudahkan pengguna untuk menulis dan mengatur entri diary mereka.
